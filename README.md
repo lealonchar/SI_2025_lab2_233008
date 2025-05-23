@@ -2,6 +2,7 @@
 
 Леа Лончар 233008
 
+![graph](CFG.jpg)
 2. https://drive.google.com/file/d/15ESsfTGrYDZC_Wa6SCUriF1H8YgBtjoR/view?usp=drive_link
 3. Цикломатската комплексност е 9. Тоа може да се види преку тоа што има 8 региони на графот.
 4. Минимално се потребни 6 тест случаи
